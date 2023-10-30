@@ -1,0 +1,70 @@
+.body{
+    background-color: rgb(60, 54, 54);
+}
+.head{
+    width: 900x;
+    text-align: center;
+}
+.mid-1{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    /* margin-right: 50px; */
+}
+.mid-2{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-right: px;
+}
+.dinner{ 
+    text-align: center; 
+    padding-bottom: 5px;
+    border: #a5a5a0 2px solid;
+    margin:15px;
+}
+.dinner img{
+  height: 120px;
+     padding:  0% 5%;
+    width: 200px;
+ border: #8a8686 2px solid;
+   padding:1px;
+   margin:5px;
+
+ 
+}
+#dollar{
+  
+border: #8a8686 2px solid;
+  
+border-top-left-radius:15px;
+  
+width:fit-content;
+  
+padding: 5px 15px;
+  
+margin-left: 80%;
+  
+margin-bottom: -7px;
+  
+/* align-content: end; */
+}
+a {
+    color: #e33b3b;
+    border-bottom: #c3d1a6 1px dotted;
+ text-decoration:none;
+}
+
+
+    #height{
+        height:135px;
+    }
+#i4{
+height:44px
+}
+.dinner-3{ 
+    text-align: center; 
+    padding-bottom: 5px;
+    border: #a5a5a0 2px solid;
+    margin:15px;
+}
